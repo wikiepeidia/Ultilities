@@ -6,11 +6,13 @@ A collection of utilities that used to be scattered across 10+ repos for no reas
 
 ## Useful Links
 
+### AI and giggles tools for development
+
 | What | Link |
 |------|------|
 | Copilot quota check | <https://github.com/settings/copilot/features> |
-| Get Shit Done (GSD) | <https://github.com/gsd-build/get-shit-done> |
-| Claude orchestrated template | <https://github.com/josipjelic/orchestrated-project-template> |
+| Get Shit Done (GSD) for many stuffs | <https://github.com/gsd-build/get-shit-done> |
+| Claude template for Claudecode | <https://github.com/josipjelic/orchestrated-project-template> |
 | LiveBench (AI benchmarks) | <https://livebench.ai/#/> |
 
 ---
