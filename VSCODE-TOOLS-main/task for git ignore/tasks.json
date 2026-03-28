@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git: Untrack ignored files",
+      "type": "shell",
+      "command": "git ls-files -i -c --exclude-standard | xargs -r git rm -r --cached",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ]
+}
+//git unignore  command for windows git bash
+// 
+// git config --global alias.unignore '!git ls-files -i -c --exclude-standard | xargs -r git rm -r --cached'
+//git unignore
+

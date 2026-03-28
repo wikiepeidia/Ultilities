@@ -1,0 +1,1069 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes]
+@=".Modified"
+"packagebase"="C:\\WINDOWS\\media"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default]
+@="Windows"
+"DispFileName"="@mmres.dll,-5856"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,42,00,61,00,63,00,6b,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect\.current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows StartupWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows StartupWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows StartupWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows ForegroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,46,00,6f,00,72,00,65,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows ForegroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows ForegroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware InsertWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,48,00,61,00,72,00,64,00,77,00,61,00,72,00,65,00,20,00,49,\
+  00,6e,00,73,00,65,00,72,00,74,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware InsertWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware InsertWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware RemoveWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,48,00,61,00,72,00,64,00,77,00,61,00,72,00,65,00,20,00,52,\
+  00,65,00,6d,00,6f,00,76,00,65,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware RemoveWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware RemoveWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware FailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,48,00,61,00,72,00,64,00,77,00,61,00,72,00,65,00,20,00,46,\
+  00,61,00,69,00,6c,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware FailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Hardware FailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,45,00,6d,00,61,\
+  00,69,00,6c,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,42,00,61,00,63,00,6b,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,45,00,6d,00,61,\
+  00,69,00,6c,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Menu CommandWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Menu CommandWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Menu CommandWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Menu CommandWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Menu CommandWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Menu CommandWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Message NudgeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4d,00,65,00,73,00,73,00,61,00,67,00,65,00,20,00,4e,00,75,\
+  00,64,00,67,00,65,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Message NudgeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Message NudgeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows MinimizeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows MinimizeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows MinimizeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify System GenericWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,53,00,79,00,73,\
+  00,74,00,65,00,6d,00,20,00,47,00,65,00,6e,00,65,00,72,00,69,00,63,00,2e,00,\
+  77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify System GenericWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify System GenericWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify MessagingWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,4d,00,65,00,73,\
+  00,73,00,61,00,67,00,69,00,6e,00,67,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify MessagingWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify MessagingWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,31,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,31,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm10]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm10\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  31,00,30,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm10\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  31,00,30,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm2]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm2\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,32,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm2\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,32,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm3]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm3\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,33,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm3\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,33,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm4]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm4\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,34,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm4\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,34,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm5]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm5\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,35,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm5\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,35,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm6]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm6\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,36,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm6\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,36,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm7]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm7\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,37,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm7\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,37,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm8]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm8\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,38,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm8\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,38,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm9]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm9\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,39,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Alarm9\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,41,00,6c,00,61,00,72,00,6d,00,\
+  30,00,39,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  31,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  31,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call10]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call10\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,31,00,\
+  30,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call10\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,31,00,\
+  30,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call2]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call2\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  32,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call2\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  32,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call3]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call3\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  33,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call3\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  33,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call4]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call4\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  34,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call4\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  34,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call5]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call5\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  35,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call5\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  35,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call6]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call6\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  36,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call6\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  36,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call7]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call7\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  37,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call7\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  37,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call8]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call8\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  38,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call8\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  38,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call9]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call9\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  39,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Looping.Call9\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,52,00,69,00,6e,00,67,00,30,00,\
+  39,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Mail]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Mail\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Mail\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,45,00,6d,00,61,\
+  00,69,00,6c,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Mail\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Mail\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify EmailWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Proximity]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Proximity\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Proximity NotificationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Proximity\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,50,00,72,00,6f,00,78,00,69,00,6d,00,69,00,74,00,79,00,20,\
+  00,4e,00,6f,00,74,00,69,00,66,00,69,00,63,00,61,00,74,00,69,00,6f,00,6e,00,\
+  2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Proximity\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Proximity NotificationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Proximity\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Proximity NotificationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Reminder]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Reminder\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify CalendarWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Reminder\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,43,00,61,00,6c,\
+  00,65,00,6e,00,64,00,61,00,72,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Reminder\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify CalendarWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Reminder\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify CalendarWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify MessagingWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4e,00,6f,00,74,00,69,00,66,00,79,00,20,00,4d,00,65,00,73,\
+  00,73,00,61,00,67,00,69,00,6e,00,67,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify MessagingWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Notify MessagingWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Print completeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Print completeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Print completeWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Proximity ConnectionWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,50,00,72,00,6f,00,78,00,69,00,6d,00,69,00,74,00,79,00,20,\
+  00,43,00,6f,00,6e,00,6e,00,65,00,63,00,74,00,69,00,6f,00,6e,00,2e,00,77,00,\
+  61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Proximity ConnectionWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Proximity ConnectionWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows RestoreWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows RestoreWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows RestoreWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows RestoreWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows RestoreWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows RestoreWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ShowBand]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ShowBand\.current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ShowBand\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ShowBand\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Snapshot]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Snapshot\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows User Account ControlWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Snapshot\.Default]
+@="C:\\Windows\\media\\Windows Notify System Generic.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Snapshot\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows User Account ControlWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,42,00,61,00,63,00,6b,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,42,00,61,00,63,00,6b,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExit]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows ShutdownWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExit\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExit\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows ShutdownWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows ForegroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,46,00,6f,00,72,00,65,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows ForegroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows ForegroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,42,00,61,00,63,00,6b,00,67,00,72,00,6f,00,75,00,6e,00,64,\
+  00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows BackgroundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Logoff SoundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogoff\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Logoff SoundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogon]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogon\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Logon SoundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogon\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,4c,00,6f,00,67,00,6f,00,6e,00,2e,00,77,00,61,00,76,00,00,\
+  00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsLogon\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Logon SoundWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows User Account ControlWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,55,00,73,00,65,00,72,00,20,00,41,00,63,00,63,00,6f,00,75,\
+  00,6e,00,74,00,20,00,43,00,6f,00,6e,00,74,00,72,00,6f,00,6c,00,2e,00,77,00,\
+  61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows User Account ControlWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows User Account ControlWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUnlock]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUnlock\.Current]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,55,00,6e,00,6c,00,6f,00,63,00,6b,00,2e,00,77,00,61,00,76,\
+  00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUnlock\.Default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,\
+  77,00,73,00,20,00,55,00,6e,00,6c,00,6f,00,63,00,6b,00,2e,00,77,00,61,00,76,\
+  00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\devenv]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\devenv\VS_BreakpointHit]
+@="Breakpoint Hit"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\devenv\VS_BreakpointHit\.current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\devenv\VS_BreakpointHit\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer]
+@="File Explorer"
+"DispFileName"="@mmres.dll,-5854"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument\.current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\.current]
+@="C:\\Windows\\Media\\WIN10\\Windows Pop-up BlockedWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\.default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Pop-up BlockedWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Pop-up BlockedWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows RecycleWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows RecycleWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows RecycleWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\.current]
+@="C:\\Windows\\Media\\WIN10\\Windows Feed DiscoveredWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\.default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Feed DiscoveredWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Feed DiscoveredWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem\.current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\.Current]
+@="C:\\Windows\\Media\\WIN10\\Windows Navigation StartWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\.Default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Windows Navigation StartWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Windows Navigation StartWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand\.current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand\.default]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand\.Modified]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand\WIN100]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr]
+@="Speech Recognition"
+"DispFileName"="@C:\\Windows\\System32\\speech\\speechux\\sapi.cpl,-5555"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound\.current]
+@="C:\\Windows\\Media\\WIN10\\Speech DisambiguationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound\.default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,53,00,70,00,65,00,65,00,63,00,\
+  68,00,20,00,44,00,69,00,73,00,61,00,6d,00,62,00,69,00,67,00,75,00,61,00,74,\
+  00,69,00,6f,00,6e,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Speech DisambiguationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Speech DisambiguationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound\.current]
+@="C:\\Windows\\Media\\WIN10\\Speech OffWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound\.default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,53,00,70,00,65,00,65,00,63,00,\
+  68,00,20,00,4f,00,66,00,66,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Speech OffWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Speech OffWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound\.current]
+@="C:\\Windows\\Media\\WIN10\\Speech OnWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound\.default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,53,00,70,00,65,00,65,00,63,00,\
+  68,00,20,00,4f,00,6e,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Speech OnWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Speech OnWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound\.current]
+@="C:\\Windows\\Media\\WIN10\\Speech SleepWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound\.default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,53,00,70,00,65,00,65,00,63,00,\
+  68,00,20,00,53,00,6c,00,65,00,65,00,70,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Speech SleepWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Speech SleepWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound\.current]
+@="C:\\Windows\\Media\\WIN10\\Speech MisrecognitionWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound\.default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,53,00,70,00,65,00,65,00,63,00,\
+  68,00,20,00,4d,00,69,00,73,00,72,00,65,00,63,00,6f,00,67,00,6e,00,69,00,74,\
+  00,69,00,6f,00,6e,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Speech MisrecognitionWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Speech MisrecognitionWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound\.current]
+@="C:\\Windows\\Media\\WIN10\\Speech DisambiguationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound\.default]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,6d,00,65,00,64,00,69,00,61,00,5c,00,53,00,70,00,65,00,65,00,63,00,\
+  68,00,20,00,44,00,69,00,73,00,61,00,6d,00,62,00,69,00,67,00,75,00,61,00,74,\
+  00,69,00,6f,00,6e,00,2e,00,77,00,61,00,76,00,00,00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound\.Modified]
+@="C:\\Windows\\Media\\WIN10\\Speech DisambiguationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound\WIN100]
+@="C:\\Windows\\Media\\WIN10\\Speech DisambiguationWIN10.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names]
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names\.Default]
+@="@mmres.dll,-800"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names\.Modified]
+@="WIN10 (modified) (modified)"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names\.None]
+@="@mmres.dll,-801"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names\WIN100]
+@="WIN10"
+
